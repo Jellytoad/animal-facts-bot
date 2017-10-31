@@ -1260,6 +1260,7 @@ HUMMINGBIRD_FACTS = (
     )
 
 HUSKY_FACTS = (
+    'Huskies noses may change colour during the cold winter months in a phenomena called snow nose or hypopigmentation.',
     'Huskies have a double-layer coat that can keep them warm in temperatures as low as -60 degrees Fahrenheit.',
     'A husky\'s howl can be heard up to ten miles away.',
     'Huskies were brought to the US from Siberia during the Nome Gold Rush in 1909.',
